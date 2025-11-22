@@ -1,0 +1,29 @@
+{
+  "name": "heavydocs",
+  "version": "1.0.0",
+  "description": "Offline docs. Search instantly. Build for the terminal",
+  "main": "index.js",
+  "bin": {
+    "nonet": "/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mweene/heavydocs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mweene/heavydocs/issues"
+  },
+  "homepage": "https://github.com/mweene/heavydocs#readme",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.2",
+    "inquirer": "^13.0.1"
+  }
+}
