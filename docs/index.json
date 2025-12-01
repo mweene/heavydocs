@@ -1,0 +1,22 @@
+{
+  "docs": [
+    {
+      "id": "js",
+      "name": "javascript",
+      "file": "js.md",
+      "keywords": ["javascript", "js", "array", "functions", "promises"]
+    },
+    {
+      "id": "react",
+      "name": "react",
+      "file": "react.md",
+      "keywords": ["react", "hooks", "components", "state", "jsx"]
+    },
+    {
+      "id": "tailwind",
+      "name": "tailwind css",
+      "file": "tailwind.md",
+      "keywords": ["tailwind", "css", "utility", "classes", "styles"]
+    }
+  ]
+}
