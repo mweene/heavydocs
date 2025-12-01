@@ -20,10 +20,5 @@
   "bugs": {
     "url": "https://github.com/mweene/heavydocs/issues"
   },
-  "homepage": "https://github.com/mweene/heavydocs#readme",
-  "dependencies": {
-    "chalk": "^5.6.2",
-    "commander": "^14.0.2",
-    "inquirer": "^13.0.1"
-  }
+  "homepage": "https://github.com/mweene/heavydocs#readme"
 }
