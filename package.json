@@ -4,7 +4,7 @@
   "description": "Offline docs. Search instantly. Build for the terminal",
   "main": "index.js",
   "bin": {
-    "nonet": "/index.js"
+    "nonet": "/bin/index.js"
   },
   "type": "module",
   "scripts": {
